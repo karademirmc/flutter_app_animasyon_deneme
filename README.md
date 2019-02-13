@@ -1,5 +1,11 @@
 # flutter_app_animasyon_deneme
  
-![animasyon](https://i.hizliresim.com/k90nAv.png)
+ 
+<p align="center">
+  <img src="https://i.hizliresim.com/k90nAv.png" width="400">
+</p>
 
-![tel_gorunum](https://i.hizliresim.com/y6jLla.png)
+<p align="center">
+  <img src="https://i.hizliresim.com/y6jLla.png" width="400">
+</p>
+ 
