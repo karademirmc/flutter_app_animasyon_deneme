@@ -2,10 +2,10 @@
  
  
 <p align="center">
-  <img src="https://i.hizliresim.com/k90nAv.png" width="400">
+  <img src="docs/2019-02-13_13-10-48.png" width="400">
 </p>
 
 <p align="center">
-  <img src="https://i.hizliresim.com/y6jLla.png" width="400">
+  <img src="docs/2019-02-13_13-18-43.png" width="400">
 </p>
  
